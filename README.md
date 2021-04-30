@@ -1,9 +1,9 @@
-# trade-doge
+# elon-trade-doge
 
 ## RUN with Docker
 
 ```shell script
-main directory ege_forecast
+main directory
 
 docker build -t etd:latest . && docker run -it --name trade_doge -d etd
 ```
